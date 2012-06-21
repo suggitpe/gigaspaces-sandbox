@@ -4,7 +4,7 @@ subprojects {
     apply plugin: 'maven'
     apply plugin: 'idea'
 
-    group = 'org.suggs.katas'
+    group = 'org.suggs.sandbox.gigaspaces'
 
     repositories {
         mavenLocal()
